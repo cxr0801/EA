@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T05:01:40.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="i6qz9iYdh0BWb3T2ZAQf" version="20.2.6" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2022-08-24T05:05:26.102Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Cx0uU8X0BJXB0zi1cl-v" version="20.2.6" type="github" pages="17">
   <diagram id="dM1onCGDWxsFVdCnRzxg" name="01_ACFD_3D 台北系統">
     <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -368,9 +368,6 @@
         </mxCell>
         <mxCell id="T1y6oRDA855QlS_ibnOc-0" value="民眾" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" parent="ty7BwRnAqRJGb1ljHvVz-1" vertex="1">
           <mxGeometry x="245.75" y="105" width="100" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="em66gHH-P9gSC_m2ZNhS-0" value="進入系統" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="ty7BwRnAqRJGb1ljHvVz-1">
-          <mxGeometry x="50" y="297" width="150" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
